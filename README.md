@@ -1,5 +1,5 @@
 # Homestay-booking-and-management
-Homestay booking and management
+
 The homestay booking web app is a full-stack web application built with the MERN (MongoDB, Express, React, Node.js) stack, providing users with a seamless and user-friendly experience for booking homestays. The app is designed to make it easy for users to search, book and pay for homestays online and also includes admin dashboard to view the booking and users.
 
 The app is integrated with the Razorpay payment gateway, which allows for secure and hassle-free payments for users. This integration ensures that users can easily make payments using their preferred payment method and that their payment details are kept safe and secure.
