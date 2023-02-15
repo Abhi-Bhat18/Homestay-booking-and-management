@@ -10,19 +10,39 @@ Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
 Prerequisites
+
 Node.js 
+
 MongoDB 
-Installing
+
+## Installing 
 Clone the repository to your local machine
+
 Navigate to the root directory of the project
-Install the necessary dependencies using npm install
+
+Install the necessary dependencies using
+```
+npm install
+```
 Create a .env file in the root directory and add your MongoDB connection string as MONGODB_URI
-Run the server using npm run server
-Run the client using npm run client
+
+Run the server using 
+```
+npm run dev
+```
+Run the client using 
+``` 
+npm run server 
+```
+
 Built With
+
 MongoDB
+
 Express
+
 React
+
 Node.js
 
 
