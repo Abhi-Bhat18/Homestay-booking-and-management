@@ -37,12 +37,11 @@ npm run server
 
 Built With
 
-MongoDB
-
-Express
-
-React
-
+MongoDB,
+Express,
+React,
 Node.js
+## Authors
+[Rakesh BR](https://github.com/RakeshBR55)
 
 
